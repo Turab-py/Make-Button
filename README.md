@@ -1,6 +1,5 @@
 # Make-Button
 How to make a Button in python 3
-# -*- coding: utf-8 -*-
 """
 Created on Thu Oct 15 14:01:17 2020
 
